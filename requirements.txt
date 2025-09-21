@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+networkx
+reportlab
+requests
+yfinance
+python-dotenv
+pydantic>=2
+pydantic-settings>=2

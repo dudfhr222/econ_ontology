@@ -1,0 +1,11 @@
+{
+  "indices": {
+    "SP500_Index": {"type":"Index","name":"S&P 500","source":"yahoo","ticker":"^GSPC","unit":"Index Points"},
+    "NASDAQ_Index": {"type":"Index","name":"NASDAQ Composite","source":"yahoo","ticker":"^IXIC","unit":"Index Points"}
+  },
+  "assets": {
+    "BTC_USD": {"type":"Asset","name":"Bitcoin","source":"coingecko","coin_id":"bitcoin","unit":"USD"},
+    "ETH_USD": {"type":"Asset","name":"Ethereum","source":"coingecko","coin_id":"ethereum","unit":"USD"},
+    "ETC_USD": {"type":"Asset","name":"Ethereum Classic","source":"coingecko","coin_id":"ethereum-classic","unit":"USD"}
+  }
+}

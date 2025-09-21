@@ -1,0 +1,3 @@
+# 관계 정의 파일
+BTC_USD -> NASDAQ_Index : correlated_with; lag=1; weight=auto
+ETH_USD -> ETC_USD : correlated_with, originated_from; lag=0; weight=auto
